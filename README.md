@@ -4,9 +4,9 @@
 <h1 align="center">Hi 👋, I'm Bhagi</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🔭 I’m currently working on **ANGULAR DEVELOPMENT**
+- 🔭 I’m currently working on ANGULAR DEVELOPMENT
 
-- 🌱 I’m currently learning **ANGULAR FRAME WORK**
+- 🌱 I’m currently learning ANGULAR FRAME WORK
 
 - 💬 Ask me about Angular and Javascript frameworks, I might be able to help with most of your issues, else we will take down that error together.
 
