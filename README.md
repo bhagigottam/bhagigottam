@@ -1,4 +1,4 @@
-<img src="https://hachinet.com/upload/2020/08/front-end-la-gi-lap-trinh-vien-front-end-can-nhung-ky-nang-nao-20200817110025.jpeg" align="center" height="300px" width="90%"/>
+<img src="https://hachinet.com/upload/2020/08/front-end-la-gi-lap-trinh-vien-front-end-can-nhung-ky-nang-nao-20200817110025.jpeg" align="center" height="300px" width="100%"/>
 
 
 <h1 align="center">Hi 👋, I'm Bhagi</h1>
