@@ -1,4 +1,4 @@
-<img src="https://hachinet.com/upload/2020/08/front-end-la-gi-lap-trinh-vien-front-end-can-nhung-ky-nang-nao-20200817110025.jpeg" align="center" height="300px" width="70%"/>
+<img src="https://hachinet.com/upload/2020/08/front-end-la-gi-lap-trinh-vien-front-end-can-nhung-ky-nang-nao-20200817110025.jpeg" align="center" height="300px" width="90%"/>
 
 
 <h1 align="center">Hi 👋, I'm Bhagi</h1>
@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **ANGULAR FRAME WORK**
 
-- 💬 Ask me about **Angular and Javascript frameworks, I might be able to help with most of your issues, else we will take down that error together.**
+- 💬 Ask me about Angular and Javascript frameworks, I might be able to help with most of your issues, else we will take down that error together.
 
 - 📫 How to reach me **gbhagieee@gmail.com**
 
